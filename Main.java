@@ -9,7 +9,7 @@ public class Main{
  
             
             System.out.println(" "
-                               + " Argument:");
+                               + " Argument");
  
             
             for (String val : args)
