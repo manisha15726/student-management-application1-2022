@@ -6,8 +6,8 @@ class Main {
 			for (String val : args)
 				System.out.println(val);
 		}
-  else
-    System.out.println(" " + " No arguments");
+               else
+                  System.out.println(" " + " No arguments given");
 	}
 }
 
